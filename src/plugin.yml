@@ -1,0 +1,8 @@
+name: DBInventoryAssigner
+main: com.dungeonbuilder.inventoryassigner.InventoryAssignerPlugin
+version: 0.1
+api-version: "1.20"
+depend:
+  - FastAsyncWorldEdit
+  - WorldEdit
+  - DBUtils
